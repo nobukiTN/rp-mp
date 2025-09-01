@@ -1,0 +1,5 @@
+[workspace]
+members =[
+    "tauri/*","crate/bootstrap/","crate/kernel","crate/members/*"
+]
+resolver = "2"
